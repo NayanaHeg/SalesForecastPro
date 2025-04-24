@@ -56,7 +56,7 @@ This project uses a **SARIMA** model, deployed via a **Streamlit app**, to forec
 - Number of business use cases supported
 
 ---
-Dataset:
+## Dataset:
 
 ## Overview  
 The dataset includes historical sales data enriched with lag features and external factors relevant to forecasting. The key columns are:
@@ -75,6 +75,19 @@ The dataset includes historical sales data enriched with lag features and extern
 
 **Sales_t-2** – Sales two days prior (lag-2)
 
+---
+## Contributors - Team 6 Members
+## 🚀 Run Locally
+Nayana Hegde
+Esther Abel
+Aishwarya Jadeja
+Dhrushi Padma
+Haarika Atluri
+
+---
+##  Acknowledgment
+We appreciate the effort of the team and our Prof. Bala for this project, for making this project possible.  
+
 ## 🚀 Run Locally
 
 To run this app on your local machine:
@@ -90,16 +103,9 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-## **Contributors - Team 6 Members**
-Nayana Hegde
-Esther Abel
-Aishwarya Jadeja
-Dhrushi Padma
-Haarika Atluri
-
 ---
-## **Acknowledgment**
-We appreciate the effort of the team and our Prof. Bala for this project, for making this project possible.
+
+
 
 ---
 ## Thank You!
