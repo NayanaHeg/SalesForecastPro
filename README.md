@@ -77,7 +77,6 @@ The dataset includes historical sales data enriched with lag features and extern
 
 ---
 ## Contributors - Team 6 Members
-## 🚀 Run Locally
 Nayana Hegde
 Esther Abel
 Aishwarya Jadeja
@@ -85,9 +84,6 @@ Dhrushi Padma
 Haarika Atluri
 
 ---
-##  Acknowledgment
-We appreciate the effort of the team and our Prof. Bala for this project, for making this project possible.  
-
 ## 🚀 Run Locally
 
 To run this app on your local machine:
@@ -102,13 +98,11 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
-
+```
 ---
-
-
+##  Acknowledgment
+We appreciate the effort of the team and our Prof. Bala for this project, for making this project possible.  
 
 ---
 ## Thank You!
 If you would like more details, you can visit our GitHub repository.
-
-
