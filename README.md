@@ -77,12 +77,12 @@ The dataset includes historical sales data enriched with lag features and extern
 
 ---
 ## Contributors - Team 6 Members
-Nayana Hegde  
-Esther Abel  
-Aishwarya Jadeja  
-Dhrushi Padma  
-Haarika Atluri  
-
+Nayana Hegde 
+[Nayana Hegde](https://www.linkedin.com/in/nayana-hegde-501a7785/)  
+[Esther Abel](https://www.linkedin.com/in/abelesther/)    
+[Aishwarya Jadeja](https://www.linkedin.com/in/aishwarya-jadeja-5729282a8/)    
+[Dhrushi Padma](https://www.linkedin.com/in/dhrushi-padma-09abb623b/)    
+[Haarika Atluri]()    
 ---
 ## 🚀 Run Locally
 
