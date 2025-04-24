@@ -58,7 +58,7 @@ This project uses a **SARIMA** model, deployed via a **Streamlit app**, to forec
 ---
 Dataset:
 
-**Overview**
+## Overview  
 The dataset includes historical sales data enriched with lag features and external factors relevant to forecasting. The key columns are:
 
 **Date** – Date of the observation
@@ -90,7 +90,7 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-Contributors - Team 6 Members
+## **Contributors - Team 6 Members**
 Nayana Hegde
 Esther Abel
 Aishwarya Jadeja
@@ -98,11 +98,11 @@ Dhrushi Padma
 Haarika Atluri
 
 ---
-Acknowledgment
+## **Acknowledgment**
 We appreciate the effort of the team and our Prof. Bala for this project, for making this project possible.
 
 ---
-Thank You!
+## Thank You!
 If you would like more details, you can visit our GitHub repository.
 
 
